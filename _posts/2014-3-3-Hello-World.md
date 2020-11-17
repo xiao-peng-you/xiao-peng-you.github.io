@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: ***2a2t网站正在极速建设中…***
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+> 游玩服务器无需专用客户端，请在任意JAVA版 我的世界客户端添加地址“2a2t.org”进行游玩。服务器目前支持*1.12.2-最新正式版！*
 
 ![_config.yml]({{ site.baseurl }}/images/config.png)
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+服务器名称含义：# 2 Awful 2 Tomb 可怕的坟墓！
+我们的口号是：## 用爱发电，永不跑路！
+服务器特色：### 无规则，无政府。随意拆家炸图！永久保留地图数据！不删档，不跑路！
+服务器创立日期：#### 2018年7月
