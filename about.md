@@ -16,7 +16,7 @@ permalink: /about/
 
 ​                     YouTube: [小彭友](https://www.youtube.com/channel/UCbYuJiAS8jjJNYcL-eppfLg)
 
-​           		  邮箱:[点击给我发送邮件](tiaozai@vip.qq.com)
+​           		  邮箱:[点击给我发送邮件](mailto:tiaozai@vip.qq.com)
 
 ​					 官方群聊: [点击链接加入群聊 2A2T.ORG](https://jq.qq.com/?_wv=1027&k=25LH5UyT)
 
